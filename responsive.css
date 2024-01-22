@@ -1,0 +1,10 @@
+@media screen and (max-width:676px) {
+    .header-section{
+        flex-direction: column;
+    }
+    .nav-item {
+        flex-direction: column;
+        margin: auto;
+        gap: 5px;
+    }
+}
